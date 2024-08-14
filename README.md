@@ -6,5 +6,5 @@ Instructions to upload the game to a browser gaming platform:
 2. Zip the folder
 3. Upload at the website as needed
 
-Where to play?
+Where to play? --->
 https://charg3.itch.io/boxy-bounce
